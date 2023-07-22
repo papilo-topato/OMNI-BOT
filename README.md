@@ -10,6 +10,7 @@ Translation: Translate text between different languages with ease.
 PDF Operations: Merge, split, and manipulate PDF files efficiently.
 Weather App: Display current weather information for any location.
 
+How to : just download the py files into the same folder. Then run the Omni-bot.py file . That's all!!
 Usage
 To use OMNI-BOT, you will need to interact with it through its graphical user interface (GUI). The GUI is divided into six tabs, each of which corresponds to one of OMNI-BOT's functionalities:
 1. Calculator: The calculator tab allows you to perform simple and complex mathematical calculations.
